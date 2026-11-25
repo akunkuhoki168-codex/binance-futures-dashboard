@@ -2,7 +2,7 @@
 
 Public live view of a **paper-trading** (simulated, no real money) Binance USDⓈ-M Futures bot.
 
-Live page: https://dedkovic441-hub.github.io/binance-futures-dashboard/
+Live page: https://akunkuhoki168-codex.github.io/binance-futures-dashboard/
 
 This bot uses public market data only. Every order is simulated. No Binance API keys are used.
 
